@@ -1,4 +1,4 @@
-use hrenteria2;
+use user;
 
 drop table if exists User;
 drop table if exists Post;
