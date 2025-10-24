@@ -14,9 +14,9 @@ import java.sql.SQLException;
 public class DataSave {
 	
 	// JDBC driver parameters 
-	public final static String hostname = "cse-linux-01.unl.edu";
-	public final static String username = "hrenteria2";
-	public final static String password = "viv5AigeeDe6";
+	public final static String hostname = " ";
+	public final static String username = " ";
+	public final static String password = " ";
 	public final static String url = "jdbc:mysql://"+hostname+"/"+username;
 	
 
